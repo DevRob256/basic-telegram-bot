@@ -7,7 +7,7 @@ namespace bot
     class Program
     {
 
-        static TelegramBotClient botClient = new TelegramBotClient("1268622258:AAHzyjxcLNC0ZGDayQvi0H2blDfFQXXA3Jo");
+        static TelegramBotClient botClient = new TelegramBotClient("YOUR TOKEN HERE!!!");
         static void Main(string[] args)
         {
 
