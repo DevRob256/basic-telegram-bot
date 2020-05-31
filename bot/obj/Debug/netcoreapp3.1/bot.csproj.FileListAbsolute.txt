@@ -1,0 +1,16 @@
+C:\Users\robso\Desktop\bot\bot\bin\Debug\netcoreapp3.1\bot.exe
+C:\Users\robso\Desktop\bot\bot\obj\Debug\netcoreapp3.1\bot.csprojAssemblyReference.cache
+C:\Users\robso\Desktop\bot\bot\obj\Debug\netcoreapp3.1\bot.AssemblyInfoInputs.cache
+C:\Users\robso\Desktop\bot\bot\obj\Debug\netcoreapp3.1\bot.AssemblyInfo.cs
+C:\Users\robso\Desktop\bot\bot\bin\Debug\netcoreapp3.1\bot.deps.json
+C:\Users\robso\Desktop\bot\bot\bin\Debug\netcoreapp3.1\bot.runtimeconfig.json
+C:\Users\robso\Desktop\bot\bot\bin\Debug\netcoreapp3.1\bot.runtimeconfig.dev.json
+C:\Users\robso\Desktop\bot\bot\bin\Debug\netcoreapp3.1\bot.dll
+C:\Users\robso\Desktop\bot\bot\bin\Debug\netcoreapp3.1\bot.pdb
+C:\Users\robso\Desktop\bot\bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\robso\Desktop\bot\bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\robso\Desktop\bot\bot\obj\Debug\netcoreapp3.1\bot.csproj.CoreCompileInputs.cache
+C:\Users\robso\Desktop\bot\bot\obj\Debug\netcoreapp3.1\bot.csproj.CopyComplete
+C:\Users\robso\Desktop\bot\bot\obj\Debug\netcoreapp3.1\bot.dll
+C:\Users\robso\Desktop\bot\bot\obj\Debug\netcoreapp3.1\bot.pdb
+C:\Users\robso\Desktop\bot\bot\obj\Debug\netcoreapp3.1\bot.genruntimeconfig.cache
