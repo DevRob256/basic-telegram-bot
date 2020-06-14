@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oYaMGilYGc/Rv2mjI5pfVMzAD7jabYGC4GLtuqvU7u4Xm9gEGNC0DtfZIkmkz2zNv8Nbs4O2bpzE1DgOZTtL2A==",
+  "dgSpecHash": "K3cQxwYsNvv1cjjPofnHBEVW6VLr9nXgOcCzkzC8BrRzXDtZOED4ZeR8e9e042O9e/JaTj5gB/XlfM1J3Mb3cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\robso\\Desktop\\bot\\bot\\bot.csproj",
+  "projectFilePath": "C:\\Users\\robso\\Desktop\\Bot\\basic-telegram-bot\\bot\\bot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\robso\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\robso\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

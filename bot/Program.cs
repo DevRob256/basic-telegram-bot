@@ -1,5 +1,8 @@
 ﻿using System;
 using Telegram.Bot;
+using System.IO;
+using Telegram.Bot.Types.InputFiles;
+
 
 
 namespace bot
@@ -7,7 +10,7 @@ namespace bot
     class Program
     {
 
-        static TelegramBotClient botClient = new TelegramBotClient("YOUR TOKEN HERE!!!");
+        static TelegramBotClient botClient = new TelegramBotClient("YOUR TOKEN HERE");
         static void Main(string[] args)
         {
 
@@ -29,6 +32,19 @@ namespace bot
             
             }
 
+            if (e.Message.Text.ToUpper() == "SEND ME A PICTURE")
+            {
+
+                FileStream fs = File.OpenRead(@"FULL FILE PATH HERE");
+                InputOnlineFile myPhoto = new InputOnlineFile(fs, "myPhoto.png");
+
+                botClient.SendPhotoAsync(e.Message.Chat.Id, myPhoto,"CAPTION");
+
+            }
+
+
         }
     }
 }
+
+
